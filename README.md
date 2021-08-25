@@ -4,7 +4,7 @@
 
 The first aid kit contains everything important for the little accidents that can happen when repairing or building.
 
-![#ASKmod First Aid Set](/images/askmod-first-aid-set.jpg)
+![#ASKmod First Aid Set](images/askmod-first-aid-set.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-first-aid-set/)
 
@@ -19,7 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0.0](https://github.com/opencultureagency/ASKmod-First-Aid-Set/tree/v.1.0.0): first aid kit + some other items. See the full list in the [content file](CONTENT.MD)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-First-Aid-Set/tree/v.1.0.0): first aid kit + some other items. See the full list in the [content file](CONTENT.md)
 
 ## Contributers
 
