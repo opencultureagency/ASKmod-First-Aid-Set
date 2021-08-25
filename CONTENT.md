@@ -6,7 +6,7 @@
 
 ## Pencil Case
 
-![#ASKmod First Aid Set](https://github.com/opencultureagency/ASKmod-First-Aid-Set/blob/21b3a0e19579b01176b8fa1e47e5455cc2f2eeb0/images/askmod-first-aid-set.jpg)
+![#ASKmod First Aid Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-First-Aid-Set/21b3a0e19579b01176b8fa1e47e5455cc2f2eeb0/images/askmod-first-aid-set.jpg)
 
 ## Items
 
