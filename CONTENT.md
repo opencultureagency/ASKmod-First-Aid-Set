@@ -1,10 +1,10 @@
 # #ASKmod Content
 
-| Version: | 1.1.0        |
+| Version: | 1.1.1        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
-## Pencil Case
+## First Aid Set
 
 ![#ASKmod First Aid Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-First-Aid-Set/3ac34110078f505573727392bb825c3078fe17ea/images/askmod-first-aid-set.JPG)
 
