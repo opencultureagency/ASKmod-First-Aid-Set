@@ -1,6 +1,6 @@
 # #ASKmod Content
 
-| Version: | 1.1.1        |
+| Version: | 1.1.2        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
@@ -13,6 +13,7 @@
 - 1x [First Aid Kit](https://askotec.openculture.agency/product/first-aid-kit/)
 - 1x [Desinfaction spray](https://askotec.openculture.agency/product/desinfaction-spray/)
 - 1x [Ointment Gel](https://askotec.openculture.agency/product/ointment-gel/)
+- 1x [Hansaplast Tape](#)
 
 ## Reference
 
