@@ -19,7 +19,8 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0.0](https://github.com/opencultureagency/ASKmod-First-Aid-Set/tree/v.1.0.0): first aid kit + some other items. See the full list in the [content file](CONTENT.md)
+- [v.1.1](https://github.com/opencultureagency/ASKmod-First-Aid-Set/tree/v.1.1.0): Added Hansaplast Tape [content file](CONTENT.md)
+- [v.1.0](https://github.com/opencultureagency/ASKmod-First-Aid-Set/tree/v.1.0.0): first aid kit + some other items. See the full list in the [content file](CONTENT.md)
 
 ## Contributers
 
